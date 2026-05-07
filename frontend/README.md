@@ -7,8 +7,8 @@ The application allows users to create, read, update, and delete tasks while dem
 
 ## Live Demo
 
-Frontend: https://your-frontend-url.onrender.com  
-Backend API: https://your-backend-url.onrender.com
+Frontend: https://frontend-2zut.onrender.com  
+Backend API: https://backend-3elr.onrender.com
 
 ---
 
