@@ -3,7 +3,7 @@ import axios from "axios";
 import { MdOutlineDone, MdModeEditOutline } from "react-icons/md";
 import { FaTrash } from "react-icons/fa";
 import { IoClose } from "react-icons/io5";
-import { API_URL } from "./assets/api";
+import { API_URL } from "./api.js";
 
 function App() {
   const [description, setDescription] = useState("");
